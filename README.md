@@ -14,6 +14,6 @@ Son utlisation se fait ainsi :
 
    Pour lancer : app.py doit etre executé.
   
-   
-![plot](/home/sid2020-7/Images/capt1 pip.png)
-![plot](/home/sid2020-7/Images/capt2 pip.png)
+![capt1 pip](https://user-images.githubusercontent.com/59557570/146575753-843421dd-1ca9-4607-9f34-5de5082ad9bb.png)
+![capt2 pip](https://user-images.githubusercontent.com/59557570/146575745-6f3c0eb9-2e6e-4df4-b206-0bcae5dccc9f.png)
+
