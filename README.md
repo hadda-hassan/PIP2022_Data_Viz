@@ -1,8 +1,5 @@
 # PIP2022_PREPARATOIRE
 
-The main goal of  this repository is to build a Dashboard template for the academic project for SID program in UPS university in colaboration with Credit Agricole.
-
-##########################################################""
 Cette application Dashboard est un dashboard synthétisant les travaux des 9 groupes interpromo.
 
 Son utlisation se fait ainsi :
