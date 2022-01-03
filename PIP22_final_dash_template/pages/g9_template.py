@@ -58,7 +58,7 @@ def create_layout(app):
     # Page layouts de Groupe
     return html.Div(
         [html.Div([Header(app)]), 
-               html.Div([html.Div( [html.H5("Objectif du groupe 9"),html.Br([]), html.P("\L'objectif du groupe est de ....", 
+               html.Div([html.Div( [html.H5("Objectif du groupe 9"),html.Br([]), html.P("Dans le cadre de l'étude de la contribution des parcours digitaux à la souscription de crédit conso, le groupe a pour objectif de déterminer l'impact des données de webtracking sur la prédiction d'une souscription et d'estimer l'historique de données nécessaire pour faire cette prédiction.", 
                       style={"color": "#ffffff"},className="row",), ],className="product",style={'backgroundColor':'darkcyan'}) ],className="row", ),
          content,])
 
