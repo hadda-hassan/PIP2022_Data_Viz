@@ -1,15 +1,9 @@
 ## exemple des graphe
 import plotly.graph_objs as go
 import plotly.express as px
-import pandas as pd
-
 ### exemple graphe 
 data_canada = px.data.gapminder().query("country == 'Canada'")
 fig1 = px.bar(data_canada, x='year', y='pop')
-
-### exemple graphe 
-fig1 = px.bar(counts,y='QUALIF_SOFINCO') ## TEST 
-
 ### exemple graphe 
 df = px.data.iris()
 fig2 = px.scatter(df, x="sepal_width", y="sepal_length", color="species",
